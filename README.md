@@ -1,7 +1,9 @@
-CRYPTOCURRENCIES PRICE TRACKER IOS APP USING APIs.
+CRYPTOCURRENCIES PRICE TRACKER FLUTTER APP USING APIs. 
+Get Any Crypto price to any fiat in real time!
 
 
-<img width="520" alt="Screenshot 2021-10-23 at 13 09 31" src="https://user-images.githubusercontent.com/6089882/138553663-0023184a-e700-4a70-83be-347c8cd4566b.png">
+<img width="344" alt="Screenshot 2021-10-23 at 17 58 55" src="https://user-images.githubusercontent.com/6089882/138563530-d8445ea1-3a8f-4cae-a029-dcb76917a54d.png">
+
 
 
 
